@@ -90,7 +90,7 @@ ta = current.year
 bu = current.month
 ha = current.day
 today = date.today()
-os.system('xdg-open https://www.facebook.com/Normal.User.Alamgir')
+os.system('xdg-open https://www.facebook.com/Termux.User.Tera.Next.Pappa')
 logo =                                          ("""
  _____ _    _       _______                   
   / ____| |  | |     |__   __|                  
